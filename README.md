@@ -26,7 +26,7 @@ Hi, I’m Vyaheslav
 
 <br>
 
-[<img  src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://github.com/Vyahes1av)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Slasku)
+
 
 
 ###
